@@ -84,7 +84,7 @@ public class TributaNFeTest {
     }
 
     @Test
-    public void devmos_garantir_gerar_valores_para_o_sismples_nascional() throws TributacaoException {
+    public void devemos_garantir_gerar_valores_para_o_sismples_nacional() throws TributacaoException {
 
         produto.setPercentualCredito(BigDecimal.valueOf(1.47));
 
